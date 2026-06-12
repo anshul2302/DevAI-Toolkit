@@ -2,7 +2,7 @@
 
 **Author:** Anshul Nema  
 **Version:** 1.0  
-**Date:** June 2025  
+**Date:** June 2026 
 **Status:** Live — [devai-toolkit.vercel.app](https://devai-toolkit.vercel.app)  
 **Repository:** [github.com/anshul2302/DevAI-Toolkit](https://github.com/anshul2302/DevAI-Toolkit)
 
